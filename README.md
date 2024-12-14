@@ -35,10 +35,10 @@ Instructions are under Step 1 here - https://shawtechlighting.com/instructions/d
 
 WLED Information <br>
 
-Complete Project Details and official site - https://kno.wled.ge/
-WLED Integration with Home Assistant - https://www.home-assistant.io/integrations/wled/
-Community forum with discussions - https://wled.discourse.group/
-WLED Discord Channel - https://discord.gg/KuqP7NE
+Complete Project Details and official site - https://kno.wled.ge/ <br>
+WLED Integration with Home Assistant - https://www.home-assistant.io/integrations/wled/ <br>
+Community forum with discussions - https://wled.discourse.group/ <br>
+WLED Discord Channel - https://discord.gg/KuqP7NE <br>
 
 
 
