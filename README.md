@@ -32,8 +32,8 @@ python -m esptool --port COM3 write_flash 0x000000 SHAWLED_0.14.4_ESP32_Nov2024.
 
 After flashing, you will need to follow the steps to get the controller back on your wifi <br>
 Instructions are under Step 1 here - https://shawtechlighting.com/instructions/diy-kit-with-channel/ <br>
-
-WLED Information <br>
+ <br>
+<H3> WLED Information </H3> <br>
 
 Complete Project Details and official site - https://kno.wled.ge/ <br>
 WLED Integration with Home Assistant - https://www.home-assistant.io/integrations/wled/ <br>
